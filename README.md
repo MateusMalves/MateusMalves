@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | DevOps Specialist | Python & JavaScript
+### 🚀 Full-Stack Developer | DevOps Engineer | Python & JavaScript
 
 [![GitHub followers](https://img.shields.io/github/followers/MateusMalves?style=social)](https://github.com/MateusMalves)
 [![GitHub User's stars](https://img.shields.io/github/stars/MateusMalves?style=social)](https://github.com/MateusMalves)
@@ -13,36 +13,36 @@
 
 ## 💡 Sobre mim
 
-Desenvolvedor full-stack com especialização crescente em **DevOps e Cloud Infrastructure**. Expertise em construir **soluções escaláveis e eficientes** com foco em **automação, containerização e arquitetura em cloud**. Especialista em **Python** e em transição para **JavaScript/TypeScript moderno**, com domínio em APIs, bancos de dados e infraestrutura AWS.
+Desenvolvedor full-stack com experiência sólida em **backend robusto** e **cloud infrastructure**. Especialista em **Python** em transição para **JavaScript/TypeScript moderno**, com crescente expertise em **DevOps e AWS**. Construo soluções escaláveis que balanceiam código limpo com infraestrutura confiável.
 
-🎯 **Expertise**: Backend APIs | DevOps & Cloud | Arquitetura de Sistemas  
+🎯 **Core Skills**: Backend APIs | DevOps & Cloud | Full-Stack Development  
 📚 **Certificações**: AWS Cloud Practitioner (em progresso)  
-💼 **Foco**: Full-Stack Development com ênfase em DevOps e Infrastructure
+💼 **Foco**: Development + DevOps Engineer
 
 ---
 
 ## 🛠️ Stack Técnico
 
-### Backend
+### 💻 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Databases
+### 📊 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### DevOps & Cloud ☁️
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -55,114 +55,141 @@ Desenvolvedor full-stack com especialização crescente em **DevOps e Cloud Infr
 
 | Métrica | Detalhes |
 |---------|----------|
-| **Principais Linguagens** | Python, JavaScript, TypeScript, SQL |
-| **Frameworks Principais** | Django, FastAPI, Flask, React |
-| **Especialidade** | Backend APIs & DevOps Infrastructure |
-| **Cloud & Infraestrutura** | AWS, Docker, Linux, CI/CD, IaC |
-| **Foco Atual** | Full-Stack + Especialização em DevOps |
+| **Linguagens Principais** | Python, JavaScript, TypeScript, SQL |
+| **Frameworks** | Django, FastAPI, Flask, React |
+| **Bancos de Dados** | PostgreSQL, MongoDB, MySQL, Redis |
+| **DevOps & Cloud** | Docker, AWS, Linux, CI/CD, IaC |
+| **Foco Atual** | Full-Stack + DevOps Engineering |
 
 ---
 
-## 🚀 DevOps & Cloud Specialization
+## 🎯 Competências Development
 
-### 🎓 Certificações & Aprendizado
-- 📜 **AWS Cloud Practitioner** - Em progresso
-- 🐳 **Docker & Containerização** - Avançado
-- 🔧 **Infrastructure as Code** - Fundamentals
-- 🔄 **CI/CD Pipelines** - Hands-on experience
+### Backend
+- 🏗️ **APIs RESTful** - Design e implementação com FastAPI, Django, Flask
+- 🔐 **Autenticação & Segurança** - JWT, OAuth2, boas práticas
+- 📊 **Banco de Dados** - Design, otimização de queries, migrations
+- 🚀 **Performance** - Caching, indexação, query optimization
 
-### 💼 Competências DevOps
-- ☁️ **AWS Services** - EC2, S3, RDS, Lambda, VPC, CloudFormation
-- 🐳 **Containerização** - Docker, Docker Compose
-- 🛠️ **Automação** - Scripts Python, Bash, Deployment automation
+### Frontend
+- ⚛️ **React** - Componentes, hooks, state management
+- 📱 **Responsivo** - HTML5, CSS3, mobile-first
+- 🔄 **Integração API** - Fetch, axios, real-time updates
+
+---
+
+## ☁️ Competências DevOps
+
+### Cloud & Infraestrutura
+- 📜 **AWS Services** - EC2, S3, RDS, Lambda, VPC, CloudFormation
+- 🐳 **Containerização** - Docker, Docker Compose, best practices
+- 🔧 **Automação** - Scripts Python, Bash, deployment automation
 - 📊 **Monitoramento** - Logs, alertas, observabilidade
-- 🔐 **Segurança & Compliance** - IAM, VPCs, Security Groups
-- 💾 **Backup & Disaster Recovery** - Estratégias e implementação
+
+### CI/CD & Deployment
+- 🔄 **Pipelines** - Automação de build, test, deploy
+- 🔐 **Segurança** - IAM, Security Groups, secrets management
+- 💾 **Backup & Recovery** - Estratégias e implementação
 
 ---
 
 ## 🎯 Projetos Destacados
 
 ### 📝 My Site - Blog Backend
-Backend robusto de blog desenvolvido com Django e Python
+Backend robusto desenvolvido com Django e Python
 
 **Stack**: Django | PostgreSQL | REST API | Python  
-**Features**: Autenticação, CRUD completo, API RESTful, Gerenciamento de conteúdo
+**Features**: Autenticação, CRUD completo, API RESTful  
+**Aprendizados**: Arquitetura de APIs, banco de dados relacional
 
 [🔗 Repositório](https://github.com/MateusMalves/mysite)
 
 ---
 
 ### 📱 Twitter Clone
-Rede social completa com funcionalidades de postagem, comentários e interações
+Rede social completa com funcionalidades full-stack
 
-**Stack**: Full-Stack | Frontend & Backend | Arquitetura escalável  
+**Stack**: Backend + Frontend | Arquitetura escalável  
+**Features**: Posts, comentários, interações, autenticação  
+**Aprendizados**: Full-stack development, user management
+
 [🔗 Repositório](https://github.com/MateusMalves/Twitter)
 
 ---
 
+### 📚 Bookstores
+E-commerce de livros com funcionalidades completas
+
+**Stack**: Frontend & Backend | E-commerce  
+**Features**: Catálogo, carrinho, checkout, admin  
+**Aprendizados**: Integração frontend-backend, pagamentos
+
+[🔗 Repositório](https://github.com/MateusMalves/bookstores)
+
+---
+
 ### 🎨 Vue REFEITO
-Projeto frontend moderno com Vue.js e boas práticas de desenvolvimento
+Projeto frontend moderno com Vue.js
+
+**Stack**: Vue.js | JavaScript  
+**Features**: Componentes reutilizáveis, boas práticas
 
 [🔗 Repositório](https://github.com/MateusMalves/vue-REFEITO)
 
 ---
 
 ### 🧪 Cypress Testing
-Suite completa de testes automatizados com Cypress para garantir qualidade
+Suite de testes automatizados
+
+**Stack**: Cypress | Automação  
+**Features**: E2E tests, validação de qualidade
 
 [🔗 Repositório](https://github.com/MateusMalves/Cypress-)
 
 ---
 
-### 📚 Bookstores
-E-commerce de livros com funcionalidades de catálogo, carrinho e checkout
+## ✨ Competências Gerais
 
-**Stack**: Frontend & Backend | E-commerce  
-[🔗 Repositório](https://github.com/MateusMalves/bookstores)
-
----
-
-## ✨ Competências Principais
-
-- 🏗️ **Arquitetura de Sistemas** - Design de APIs escaláveis e performáticas
-- 🔐 **Backend Seguro** - Autenticação, autorização e práticas de segurança
-- 📊 **Gestão de Dados** - SQL otimizado, modelagem de bancos, caching
-- ☁️ **DevOps & Cloud** - AWS, Docker, automação, infraestrutura como código
-- 🚀 **Performance & Escalabilidade** - Otimização, caching strategies, load balancing
-- 🧪 **Testes & Qualidade** - Testes automatizados, CI/CD, cobertura de testes
+| Área | Skills |
+|------|--------|
+| **Development** | APIs RESTful, Autenticação, ORM, Testes, Performance |
+| **DevOps** | Docker, AWS, CI/CD, Monitoramento, Infrastructure |
+| **Banco de Dados** | SQL, NoSQL, Migrations, Otimização, Caching |
+| **Ferramentas** | Git, Linux, Bash, Python scripting |
 
 ---
 
-## 📈 Roadmap de Desenvolvimento
+## 📈 Roadmap Profissional
 
 ```
 🎯 Atual
-├─ Full-Stack Development (Python/JavaScript)
+├─ Full-Stack Development
+├─ Docker & Containerização
 ├─ AWS Cloud Practitioner (em progresso)
-└─ DevOps Fundamentals
+└─ CI/CD Fundamentals
 
 📚 Próximos Passos
 ├─ AWS Solutions Architect Associate
-├─ Kubernetes & Orchestration
-└─ Infrastructure as Code (Terraform/CloudFormation)
+├─ Kubernetes Basics
+├─ Infrastructure as Code (Terraform)
+└─ Advanced Performance Optimization
 ```
 
 ---
 
-## 💭 Filosofia de Desenvolvimento
+## 💭 Filosofia
 
 ```
-Código Limpo → Arquitetura Sólida → Testes Completos → Deploy Confiável → Monitoramento Ativo
+Clean Code + Scalable Architecture + Reliable Infrastructure = Great Products
 ```
 
-Acredito em soluções que balanceiam funcionalidade, performance, manutenibilidade e operacionalidade.
+Acredito em soluções que balanceiam qualidade de código, performance e operacionalidade.
 
 ---
 
 ## 🤝 Vamos nos conectar!
 
-Estou aberto a oportunidades, colaborações e discussões sobre tecnologia, especialmente em DevOps e Cloud Infrastructure.
+Estou aberto a oportunidades, colaborações e discussões sobre full-stack development, DevOps e cloud infrastructure.
 
 <div align="center">
 
@@ -176,7 +203,7 @@ Estou aberto a oportunidades, colaborações e discussões sobre tecnologia, esp
 
 <div align="center">
 
-### 💭 "Infrastructure as Code, Culture as Evolution"
+### 💭 "Code is the bridge between ideas and reality"
 
 ⭐ Se você achou algo interessante, considere dar uma estrela nos meus repositórios!
 
