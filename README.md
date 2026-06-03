@@ -6,9 +6,7 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ## 📊 Estatísticas
 
-<a href="https://github.com/MateusMalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="MateusMalves's github stats" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMalves&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&count_private=true)
 
 ---
 
@@ -26,9 +24,7 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ## 💻 Linguagens e Ferramentas
 
-<a href="https://github.com/MateusMalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMalves&layout=compact&langs_count=7&theme=dark" alt="MateusMalves's most used languages" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MateusMalves&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&count_private=true)
 
 ### Tecnologias principais:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
