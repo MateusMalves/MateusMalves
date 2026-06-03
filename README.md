@@ -28,11 +28,11 @@ Desenvolvedor full-stack com experiência sólida em **backend robusto** e **clo
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -75,6 +75,7 @@ Desenvolvedor full-stack com experiência sólida em **backend robusto** e **clo
 - ⚛️ **React** - Componentes, hooks, state management
 - 📱 **Responsivo** - HTML5, CSS3, mobile-first
 - 🔄 **Integração API** - Fetch, axios, real-time updates
+- 💪 **TypeScript** - Type safety e melhor developer experience
 
 ---
 
