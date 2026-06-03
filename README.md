@@ -4,12 +4,6 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusMalves&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&count_private=true)
-
----
-
 ## 🚀 Projetos Destacados
 
 | Projeto | Descrição |
@@ -24,14 +18,13 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ## 💻 Linguagens e Ferramentas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MateusMalves&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&count_private=true)
-
 ### Tecnologias principais:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
