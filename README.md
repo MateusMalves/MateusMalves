@@ -104,7 +104,13 @@ Durante a pandemia, participei como **consultor em projetos de alta escala**, co
 
 ---
 
-## 🎯 Projetos Destacados
+## 🎯 Projetos Destacados & Laboratório de Estudos
+
+Como grande parte do meu trabalho com **arquiteturas de alta escala** e **plataformas de inteligência artificial** é protegida por contratos de confidencialidade, utilizo este espaço no GitHub como um **laboratório prático e contínuo**.
+
+Os repositórios abaixo refletem minhas **provas de conceito, estudos em novas tecnologias, testes de integrações de front-end** e a **manutenção de fundamentos de programação** em ambientes controlados.
+
+---
 
 ### 📝 My Site - Blog Backend
 Backend robusto desenvolvido com Django e Python
