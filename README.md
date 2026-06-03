@@ -13,13 +13,17 @@
 
 ## 💡 Sobre mim
 
-Desenvolvedor full-stack com **sólida base em Python** e experiência prática na construção e operação de **infraestruturas em nuvem**. Atuo de forma integrada entre **desenvolvimento backend e DevOps**, construindo soluções escaláveis, seguras e eficientes.
+Atuo no **ponto de equilíbrio exato entre desenvolvimento de software e engenharia de infraestrutura**. Desenvolvedor full-stack com **sólida base em Python** e experiência prática na construção e operação de **infraestruturas em nuvem**. Construo aplicações completas e garanto que rodem de forma escalável, segura e automatizada.
+
+Como **Desenvolvedor Full-Stack**, meu foco é a engenharia de back-ends robustos e APIs de alta performance utilizando FastAPI e Django, integrando lógica de negócios, otimização de bancos de dados e entrega fluida para interfaces de usuário.
+
+Como **Engenheiro DevOps**, aplico minha base em computação de alto desempenho para desenhar e orquestrar ambientes em nuvem, com forte atuação na AWS. Estruturo infraestrutura como código, gerencio contêineres com Kubernetes e construo pipelines de CI/CD para garantir entregas contínuas.
 
 Durante a pandemia, participei como **consultor em projetos de alta escala**, contribuindo com desenvolvimento backend, automação e melhoria de infraestrutura em ambientes críticos. Tenho experiência com **ambientes distribuídos, troubleshooting avançado e práticas modernas** como Infrastructure as Code, observabilidade e cultura DevOps.
 
 📚 **Educação**: Estudante de Tecnologia da Informação na **Saint Leo University, Florida**  
 📚 **Certificações**: AWS Cloud Practitioner (em progresso)  
-🎯 **Objetivo**: DevOps Engineer em crescimento + Full-Stack Developer
+🎯 **Objetivo**: Impacto técnico integrado entre Development + DevOps
 
 ---
 
@@ -88,7 +92,7 @@ Durante a pandemia, participei como **consultor em projetos de alta escala**, co
 ### Cloud & Infraestrutura
 - 📜 **AWS Services** - EC2, S3, RDS, Lambda, VPC, CloudFormation
 - 🐳 **Containerização** - Docker, Docker Compose, best practices
-- 🔄 **Orquestração** - Kubernetes, deployments, scaling
+- 🔄 **Orquestração** - Kubernetes, deployments, scaling, management
 - 🔧 **Automação** - Scripts Python, Bash, deployment automation
 - 📊 **Monitoramento** - Logs, alertas, observabilidade
 
@@ -169,17 +173,20 @@ Suite de testes automatizados
 ## 📈 Roadmap Profissional
 
 ```
-🎯 Atual
-├─ Full-Stack Development
+🎯 Foco Atual
+├─ Full-Stack Development (Python/JavaScript)
 ├─ Docker & Containerização
-├─ AWS Cloud Practitioner (em progresso)
-└─ CI/CD Fundamentals
+├─ Kubernetes & Orquestração
+├─ Infrastructure as Code (Terraform/CloudFormation)
+├─ CI/CD Pipelines Avançados
+└─ AWS Cloud Practitioner (em progresso)
 
 📚 Próximos Passos
 ├─ AWS Solutions Architect Associate
-├─ Kubernetes Basics
-├─ Infrastructure as Code (Terraform)
-└─ Advanced Performance Optimization
+├─ Arquitetura de Microsserviços
+├─ Soluções Serverless & Event-Driven
+├─ Otimização Avançada de Performance
+└─ Integração de IA em DevOps & Automação
 ```
 
 ---
@@ -190,13 +197,13 @@ Suite de testes automatizados
 Clean Code + Scalable Architecture + Reliable Infrastructure = Great Products
 ```
 
-Acredito em soluções que balanceiam qualidade de código, performance e operacionalidade.
+Acredito em soluções que balanceiam qualidade de código, performance, operacionalidade e entrega contínua de valor.
 
 ---
 
 ## 🤝 Vamos nos conectar!
 
-Estou aberto a oportunidades, colaborações e discussões sobre full-stack development, DevOps e cloud infrastructure.
+Estou aberto a oportunidades, colaborações e discussões sobre arquitetura em nuvem, DevOps practices e desenvolvimento full-stack.
 
 <div align="center">
 
@@ -210,7 +217,7 @@ Estou aberto a oportunidades, colaborações e discussões sobre full-stack deve
 
 <div align="center">
 
-### 💭 "Code is the bridge between ideas and reality"
+### 💭 "The best infrastructure is invisible to the end user, but critical to every developer"
 
 ⭐ Se você achou algo interessante, considere dar uma estrela nos meus repositórios!
 
