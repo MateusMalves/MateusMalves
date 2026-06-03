@@ -6,7 +6,9 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusMalves&show_icons=true&theme=dark&hide_border=false&count_private=true)
+<a href="https://github.com/MateusMalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusMalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="MateusMalves's github stats" />
+</a>
 
 ---
 
@@ -24,7 +26,9 @@ Sou o **Mateus**, um desenvolvedor com experiência em **Python** e apaixonado p
 
 ## 💻 Linguagens e Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMalves&layout=compact&theme=dark&hide_border=false)
+<a href="https://github.com/MateusMalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMalves&layout=compact&langs_count=7&theme=dark" alt="MateusMalves's most used languages" />
+</a>
 
 ### Tecnologias principais:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,3 +46,4 @@ Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmateusmalves/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateusMalves)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmate.alv@gmail.com)
