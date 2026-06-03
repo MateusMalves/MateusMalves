@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Full-Stack Developer | DevOps Engineer | Python & JavaScript
+### 🚀 Full-Stack Developer | DevOps Engineer em Crescimento
 
 [![GitHub followers](https://img.shields.io/github/followers/MateusMalves?style=social)](https://github.com/MateusMalves)
 [![GitHub User's stars](https://img.shields.io/github/stars/MateusMalves?style=social)](https://github.com/MateusMalves)
@@ -13,11 +13,13 @@
 
 ## 💡 Sobre mim
 
-Desenvolvedor full-stack com experiência sólida em **backend robusto** e **cloud infrastructure**. Especialista em **Python** em transição para **JavaScript/TypeScript moderno**, com crescente expertise em **DevOps e AWS**. Construo soluções escaláveis que balanceiam código limpo com infraestrutura confiável.
+Desenvolvedor full-stack com **sólida base em Python** e experiência prática na construção e operação de **infraestruturas em nuvem**. Atuo de forma integrada entre **desenvolvimento backend e DevOps**, construindo soluções escaláveis, seguras e eficientes.
 
-🎯 **Core Skills**: Backend APIs | DevOps & Cloud | Full-Stack Development  
+Durante a pandemia, participei como **consultor em projetos de alta escala**, contribuindo com desenvolvimento backend, automação e melhoria de infraestrutura em ambientes críticos. Tenho experiência com **ambientes distribuídos, troubleshooting avançado e práticas modernas** como Infrastructure as Code, observabilidade e cultura DevOps.
+
+📚 **Educação**: Estudante de Tecnologia da Informação na **Saint Leo University, Florida**  
 📚 **Certificações**: AWS Cloud Practitioner (em progresso)  
-💼 **Foco**: Development + DevOps Engineer
+🎯 **Objetivo**: DevOps Engineer em crescimento + Full-Stack Developer
 
 ---
 
@@ -44,6 +46,8 @@ Desenvolvedor full-stack com experiência sólida em **backend robusto** e **clo
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -58,7 +62,7 @@ Desenvolvedor full-stack com experiência sólida em **backend robusto** e **clo
 | **Linguagens Principais** | Python, JavaScript, TypeScript, SQL |
 | **Frameworks** | Django, FastAPI, Flask, React |
 | **Bancos de Dados** | PostgreSQL, MongoDB, MySQL, Redis |
-| **DevOps & Cloud** | Docker, AWS, Linux, CI/CD, IaC |
+| **DevOps & Cloud** | Docker, Kubernetes, Terraform, AWS, Linux, CI/CD, IaC |
 | **Foco Atual** | Full-Stack + DevOps Engineering |
 
 ---
@@ -84,11 +88,13 @@ Desenvolvedor full-stack com experiência sólida em **backend robusto** e **clo
 ### Cloud & Infraestrutura
 - 📜 **AWS Services** - EC2, S3, RDS, Lambda, VPC, CloudFormation
 - 🐳 **Containerização** - Docker, Docker Compose, best practices
+- 🔄 **Orquestração** - Kubernetes, deployments, scaling
 - 🔧 **Automação** - Scripts Python, Bash, deployment automation
 - 📊 **Monitoramento** - Logs, alertas, observabilidade
 
 ### CI/CD & Deployment
 - 🔄 **Pipelines** - Automação de build, test, deploy
+- 📋 **Infrastructure as Code** - Terraform, CloudFormation
 - 🔐 **Segurança** - IAM, Security Groups, secrets management
 - 💾 **Backup & Recovery** - Estratégias e implementação
 
@@ -154,7 +160,7 @@ Suite de testes automatizados
 | Área | Skills |
 |------|--------|
 | **Development** | APIs RESTful, Autenticação, ORM, Testes, Performance |
-| **DevOps** | Docker, AWS, CI/CD, Monitoramento, Infrastructure |
+| **DevOps** | Docker, Kubernetes, AWS, Terraform, CI/CD, Monitoring |
 | **Banco de Dados** | SQL, NoSQL, Migrations, Otimização, Caching |
 | **Ferramentas** | Git, Linux, Bash, Python scripting |
 
